@@ -1,6 +1,6 @@
 function Contato() {
     return (  
-        <h1>a</h1>
+        <h1>a2</h1>
     );
 }
 
